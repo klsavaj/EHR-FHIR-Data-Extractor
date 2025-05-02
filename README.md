@@ -104,8 +104,14 @@ Based on the SDD, the system utilizes these key AWS services:
 ## Documentation
 Comprehensive documentation is available in the /docs directory:
 
-Software Design Document (SDD)
-Software Requirements Specification (SRS)
-Software Testing Documentation (STD)
+- Software Design Document (SDD)
+- Software Requirements Specification (SRS)
+- Software Testing Documentation (STD)
 
-AWS Deployment Guide
+Comprehensive code explanation is available in the /code directory:
+- Deployment.md file to set up AWS architecture
+- /lambda_functions,  all functions have proper objective in the start of the function.
+
+###Contributors
+Jaynesh, Jaimin, Nitin, Rajath
+

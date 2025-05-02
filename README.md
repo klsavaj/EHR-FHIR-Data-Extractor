@@ -112,6 +112,6 @@ Comprehensive code explanation is available in the /code directory:
 - Deployment.md file to set up AWS architecture
 - /lambda_functions,  all functions have proper objective in the start of the function.
 
-###Contributors
+### Contributors
 Jaynesh, Jaimin, Nitin, Rajath
 

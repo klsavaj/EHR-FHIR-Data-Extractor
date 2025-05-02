@@ -53,7 +53,7 @@ The EHR-FHIR Data Extractor is a cloud-based solution that creates a bridge betw
 
 ## System Architecture
 
-![System Architecture Diagram](https://raw.githubusercontent.com/[klsavaj/EHR-FHIR-Data-Extractor/blob/main/docs/images/architecture.png])
+![System Architecture Diagram](https://github.com/klsavaj/EHR-FHIR-Data-Extractor/blob/main/docs/images/architecture.png)
 
 The system follows a three-tier architecture:
 
